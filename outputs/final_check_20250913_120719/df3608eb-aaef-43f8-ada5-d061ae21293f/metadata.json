@@ -1,0 +1,56 @@
+{
+  "job_id": "df3608eb-aaef-43f8-ada5-d061ae21293f",
+  "prompt": "A magical ancient book on a stone pedestal, with glowing runes floating above, chains wrapped around the sides, low-poly stylized for RPG, balanced proportions, ready for Unity/Blender.",
+  "parameters": {
+    "seed": 42,
+    "steps": 28,
+    "guidance_scale": 7.0
+  },
+  "files": {
+    "main": "main.glb",
+    "lods": [
+      "lod1.glb",
+      "lod2.glb"
+    ],
+    "screenshot": "screenshot.png"
+  },
+  "metrics": {
+    "vertex_count": 162,
+    "face_count": 320,
+    "edge_count": 960,
+    "volume": 88.35408904742725,
+    "surface_area": 0.0,
+    "bounding_box": {
+      "min": [
+        -2.78815683167731,
+        -2.8890438562505363,
+        -2.8735651448265522
+      ],
+      "max": [
+        2.958289970712356,
+        3.2012599450488355,
+        2.9698283226293576
+      ],
+      "size": [
+        5.746446802389666,
+        6.090303801299372,
+        5.843393467455909
+      ]
+    },
+    "is_watertight": true,
+    "is_winding_consistent": true,
+    "is_empty": false,
+    "has_uv_coordinates": false,
+    "has_vertex_normals": false,
+    "file_size_bytes": 6592,
+    "file_size_mb": 0.00628662109375,
+    "loadable": false,
+    "triangle_quality": {
+      "min_area": 0.02557798317768446,
+      "max_area": 1.111327087281572,
+      "mean_area": 0.342139994399757,
+      "std_area": 0.1548594439794884
+    }
+  },
+  "status": "completed"
+}

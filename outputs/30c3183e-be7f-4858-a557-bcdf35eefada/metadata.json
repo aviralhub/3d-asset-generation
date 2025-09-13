@@ -1,0 +1,56 @@
+{
+  "job_id": "30c3183e-be7f-4858-a557-bcdf35eefada",
+  "prompt": "test cube",
+  "parameters": {
+    "seed": 42,
+    "steps": 10,
+    "guidance_scale": 5.0
+  },
+  "files": {
+    "main": "main.glb",
+    "lods": [
+      "lod1.glb",
+      "lod2.glb"
+    ],
+    "screenshot": "screenshot.png"
+  },
+  "metrics": {
+    "vertex_count": 8,
+    "face_count": 12,
+    "edge_count": 36,
+    "volume": 1.0,
+    "surface_area": 0.0,
+    "bounding_box": {
+      "min": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "max": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "size": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "is_watertight": true,
+    "is_winding_consistent": true,
+    "is_empty": false,
+    "has_uv_coordinates": false,
+    "has_vertex_normals": false,
+    "file_size_bytes": 960,
+    "file_size_mb": 0.00091552734375,
+    "loadable": false,
+    "triangle_quality": {
+      "min_area": 0.5,
+      "max_area": 0.5,
+      "mean_area": 0.5,
+      "std_area": 0.0
+    }
+  },
+  "status": "completed"
+}

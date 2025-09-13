@@ -1,0 +1,56 @@
+{
+  "job_id": "021e6ac9-5e14-4864-a97c-8dbd6e49936b",
+  "prompt": "A stylized sci-fi supply crate: rugged geometric panels, glowing cyan status panels recessed into the top and sides, reinforced riveted steel corners, small carry handle, low-poly game-ready stylization (clear silhouette), slightly worn paint chips on edges, no floating fragments, export-ready for Unity/Blender, balanced proportions.",
+  "parameters": {
+    "seed": 42,
+    "steps": 20,
+    "guidance_scale": 6.0
+  },
+  "files": {
+    "main": "main.glb",
+    "lods": [
+      "lod1.glb",
+      "lod2.glb"
+    ],
+    "screenshot": "screenshot.png"
+  },
+  "metrics": {
+    "vertex_count": 162,
+    "face_count": 320,
+    "edge_count": 960,
+    "volume": 32.23565610192193,
+    "surface_area": 0.0,
+    "bounding_box": {
+      "min": [
+        -1.9647123256157473,
+        -2.0151558379023604,
+        -2.036782572413276
+      ],
+      "max": [
+        2.04977889513327,
+        2.1777929871947683,
+        2.0620771759850296
+      ],
+      "size": [
+        4.014491220749017,
+        4.192948825097129,
+        4.098859748398306
+      ]
+    },
+    "is_watertight": true,
+    "is_winding_consistent": true,
+    "is_empty": false,
+    "has_uv_coordinates": false,
+    "has_vertex_normals": false,
+    "file_size_bytes": 6588,
+    "file_size_mb": 0.006282806396484375,
+    "loadable": false,
+    "triangle_quality": {
+      "min_area": 0.03843622316562723,
+      "max_area": 0.40982985753623946,
+      "mean_area": 0.16342647511910563,
+      "std_area": 0.05443503905492375
+    }
+  },
+  "status": "completed"
+}

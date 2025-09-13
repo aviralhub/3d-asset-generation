@@ -1,0 +1,56 @@
+{
+  "job_id": "340c4485-50d4-43db-97d9-979f18c3ed88",
+  "prompt": "A cat sword, stone base with glowing embers, iron anvil on top, wooden tool rack with hammers and tongs, low-poly stylized for RPG game, balanced proportions, export-ready for Unity/Blender.",
+  "parameters": {
+    "seed": 999,
+    "steps": 30,
+    "guidance_scale": 7.5
+  },
+  "files": {
+    "main": "main.glb",
+    "lods": [
+      "lod1.glb",
+      "lod2.glb"
+    ],
+    "screenshot": "screenshot.png"
+  },
+  "metrics": {
+    "vertex_count": 162,
+    "face_count": 320,
+    "edge_count": 960,
+    "volume": 108.4186754732367,
+    "surface_area": 0.0,
+    "bounding_box": {
+      "min": [
+        -3.365273803170427,
+        -3.152930713274535,
+        -3.37276259167607
+      ],
+      "max": [
+        3.305521065384305,
+        3.364942764674722,
+        3.0671814523582985
+      ],
+      "size": [
+        6.670794868554731,
+        6.517873477949257,
+        6.439944044034369
+      ]
+    },
+    "is_watertight": true,
+    "is_winding_consistent": true,
+    "is_empty": false,
+    "has_uv_coordinates": false,
+    "has_vertex_normals": false,
+    "file_size_bytes": 6588,
+    "file_size_mb": 0.006282806396484375,
+    "loadable": false,
+    "triangle_quality": {
+      "min_area": 0.050969088197860904,
+      "max_area": 1.1537279827751725,
+      "mean_area": 0.4190769820686615,
+      "std_area": 0.20648147625418567
+    }
+  },
+  "status": "completed"
+}

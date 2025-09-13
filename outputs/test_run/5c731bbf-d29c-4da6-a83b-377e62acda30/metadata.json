@@ -1,0 +1,56 @@
+{
+  "job_id": "5c731bbf-d29c-4da6-a83b-377e62acda30",
+  "prompt": "A fantasy RPG treasure chest: ornate carved wood panels, reinforced gold trim, glowing rune engravings on the lid, slightly worn edges, game-ready low-poly with balanced proportions, no floating parts, export-ready for Unity/Blender.",
+  "parameters": {
+    "seed": 123,
+    "steps": 25,
+    "guidance_scale": 7.0
+  },
+  "files": {
+    "main": "main.glb",
+    "lods": [
+      "lod1.glb",
+      "lod2.glb"
+    ],
+    "screenshot": "screenshot.png"
+  },
+  "metrics": {
+    "vertex_count": 162,
+    "face_count": 320,
+    "edge_count": 960,
+    "volume": 62.18161281629185,
+    "surface_area": 0.0,
+    "bounding_box": {
+      "min": [
+        -2.6543094247144414,
+        -2.6746097940802036,
+        -2.663176699151666
+      ],
+      "max": [
+        2.593251592505107,
+        2.7130359560340853,
+        2.486648517048901
+      ],
+      "size": [
+        5.247561017219549,
+        5.387645750114289,
+        5.149825216200567
+      ]
+    },
+    "is_watertight": true,
+    "is_winding_consistent": true,
+    "is_empty": false,
+    "has_uv_coordinates": false,
+    "has_vertex_normals": false,
+    "file_size_bytes": 6592,
+    "file_size_mb": 0.00628662109375,
+    "loadable": false,
+    "triangle_quality": {
+      "min_area": 0.026886444607291234,
+      "max_area": 0.6345474238040376,
+      "mean_area": 0.2808478568687631,
+      "std_area": 0.13424473995412176
+    }
+  },
+  "status": "completed"
+}
