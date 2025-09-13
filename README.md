@@ -1,4 +1,4 @@
-# Game ML Assignment
+# Game ML
 
 A complete GitHub-ready project demonstrating machine learning models useful for games, specifically focused on 3D asset generation using procedural models.
 
