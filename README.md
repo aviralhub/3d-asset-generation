@@ -358,7 +358,7 @@ game-ml-assignment/
 │   └── worker.py          # Job queue worker
 ├── tests/                  # Test files
 ├── notebooks/             # Jupyter notebooks
-├── outputs/               # Generated assets (gitignored)
+├── outputs/               # Generated assets 
 ├── docs/                  # Documentation
 ├── requirements.txt       # Python dependencies
 └── run_experiments.py     # Experiment runner
